@@ -6,7 +6,7 @@ H1  {
 	text-align:center;
 }
 h2{
-	color:#00F;
+	color:#63F;
 	font-size:38px;
 	text-align:left;
 }
@@ -14,5 +14,7 @@ h3 {
 	background-color:#FCF;
 	font:italic small-caps 700 1.2em/1.5em Arial, Helvetica, sans-serif, "Comic Sans MS", cursive;
 	text-align:justify;
-
-	
+}
+mc{
+	text-align:center;
+	}
